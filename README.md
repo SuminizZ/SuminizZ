@@ -1,4 +1,4 @@
-<h1 align="center">Sumin[website] 👋</h1>
+<h1 align="center">Hello! I'm Sumin[website] 👋</h1>
 
 <div align="center">
   🌱🌱🌱🌱🌱🌱🌱🌱
@@ -33,4 +33,5 @@
 
 <br />
 
-[website]: https://suminizz.github.io/
+
+[website]: https://suminizz.github.io
