@@ -36,9 +36,9 @@
 <br />
 <br />
 
-<div align="left">
-  Visit <a href="https://suminizz.github.io">my blog</a> to know more about my programming life
-</div>
+<p align="center" >
+  <font size="3"> Visit <strong><a href="https://suminizz.github.io">my blog</a></strong> to know more about my programming life </font>
+</p>
 
 
 
