@@ -9,6 +9,7 @@
 <div align="center">
   Participating at Year-Dream Project, an educational program for AI
 </div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuminizZ&show_icons=true&hide=["issuses"]){:target="_blank"}
 
 <br />
 
