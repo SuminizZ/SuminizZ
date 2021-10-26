@@ -30,11 +30,16 @@
 ------
 
 ### 🚋Projects:
-<div align="center">
-  Visit <a href="https://suminizz.github.io">my blog</a> to know more about my programming life
-</div>
+
+------
+
 <br />
 <br />
 
-------
+<div align="left">
+  Visit <a href="https://suminizz.github.io">my blog</a> to know more about my programming life
+</div>
+
+
+
 
