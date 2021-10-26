@@ -9,8 +9,13 @@
 <div align="center">
   Participating at Year-Dream Project, an educational program for AI
 </div>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuminizZ&show_icons=true&hide=["issuses"]){:target="_blank"}
 
+<br />
+<br />
+
+------
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SuminizZ&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuminizZ&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 <br />
 
 ------
