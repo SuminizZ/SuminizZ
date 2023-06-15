@@ -1,4 +1,4 @@
-<h1 align="center">Hello! I'm <a href="https://suminizz.github.io">Sumin</a> 👋</h1>
+<!-- <h1 align="center">Hello! I'm <a href="https://suminizz.github.io">Sumin</a> 👋</h1>
 
 <div align="center">
   🌱🌱🌱🌱🌱🌱🌱🌱
@@ -10,7 +10,7 @@
   Participating at Year-Dream Project, an educational program for AI
 </div>
 
-<br />
+<br /> -->
 
 ------
 
